@@ -1,15 +1,16 @@
 # Kanap #
 
-This is the front end and back end server for Project 5 of the Web Developer path.
+Il s'agit ici du front-end et du back-end du projet n°5 de la formation Développeur Web d'OpenClassRooms.
 
-### Back end Prerequisites ###
+### Back-end : Prerequis ###
 
-You will need to have Node and `npm` installed locally on your machine.
+Vous devez avoir Node and `npm` installés localement sur votre machine.
 
-### Back end Installation ###
+### Back-end : Installation ###
 
-Clone this repo. From the "back" folder of the project, run `npm install`. You 
-can then run the server with `node server`. 
-The server should run on `localhost` with default port `3000`. If the
-server runs on another port for any reason, this is printed to the
-console when the server starts, e.g. `Listening on port 3001`.
+Clonez ce repository. Dans le dossier "back", éxécutez `npm install`. Vous pourrez ensuite lancer le serveur avec `node server`. 
+Le serveur est accessible sur `localhost` avec le port '3000' par défaut. Si le serveur devait s'exécuter sur un autre port, celui-ci serait indiqué dans la console : 'Listening on port *****'. 
+
+### Back-end : Information ### 
+
+Le Back-end est fourni par OpenClassRooms. Seul le Front-end a été développé.
